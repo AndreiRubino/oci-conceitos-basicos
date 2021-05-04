@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Arquitetura OCI - Conceitos Básicos
 
-You can use the [editor on GitHub](https://github.com/AndreiRubino/ociconceitosbasicos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este vídeo tem o objetivo de esclarecer os Conceitos Básicos da Arquitetura OCI. Explicando o que é uma Region, Availability Domain, Fault Domain e um Compartment.
 
-### Markdown
+Se você gostaria de iniciar os seus estudo na OCI, essa é a sua oportunidade !
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<iframe width="880" height="494" src="https://www.youtube.com/watch?v=UsYt6OdjOyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. Numbered
-2. List
+ 
+Link das VMs que utilizei para fazer o HANDS ON:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndreiRubino/ociconceitosbasicos/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Aproveite e também acesse o meu canal no Youtube](https://www.youtube.com/channel/UCzf3jLWntfzI97T5bcaRBPA)
