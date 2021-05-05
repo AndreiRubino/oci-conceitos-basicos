@@ -8,7 +8,7 @@ Se você gostaria de iniciar os seus estudo na OCI, essa é a sua oportunidade !
 
 
 
-<iframe width="880" height="494" src="https://youtu.be/UsYt6OdjOyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="880" height="494" src="https://www.youtube.com/embed/UsYt6OdjOyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  
 [Aproveite e também acesse o meu canal no Youtube](https://www.youtube.com/channel/UCzf3jLWntfzI97T5bcaRBPA)
